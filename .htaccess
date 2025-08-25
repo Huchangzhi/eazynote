@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteRule ^data/ - [F,L]
+RewriteRule ^review_queue/ - [F,L]
+RewriteRule ^attempts/ - [F,L]
+ErrorDocument 403 https://eazynote.free.nf/403.html
+ErrorDocument 404 https://eazynote.free.nf/404.html

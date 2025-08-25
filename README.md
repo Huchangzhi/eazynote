@@ -1,4 +1,4 @@
-# eazynote
+# eazynote--易记
 一款简洁的免费开源的网络笔记本
 
 [demo](https://eazynote.free.nf)
